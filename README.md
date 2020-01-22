@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+1.基本情况
+名号：跃跃
+坐标：四川宜宾
+简书：个人主页 
+生命故事：
+我出生在一个小城市的普通工薪家庭，过于传统的家庭教育，把我培养成一个标准的“乖学生”，读大学之前从未住过校，做过饭，出过远门，高考不明不白的填提前批志愿，跑到了远在长春的东北师范大学，哇哇大哭地进了校门。直到，在大二暑期参加了一次短期支教的“三下乡”活动，并偶然成为团长开始，翻开了一篇崭新的青春故事。
+在大学的六年时间里，和小伙伴们组建“三下乡”团队，成立社团，到全国大学生社会实践十佳，前后带领600多位师大学子在四川、云南的灾区和贫困山区开展“乡村夏令营”公益活动，和1000多名山区孩子相处过，获得了数次省级以上的荣誉。也是在这六年的经历中，积累了大量社会实践经验，不断感悟生命的意义。
+但我的成长经历依旧是单薄的，是个典型的理想主义者，以至于到现在，还搞不清楚自己的人生目标。
+在工作的过程中，通过做“社会主义核心价值观”的宣传工作，和参与的几次网络舆情培训，提起了对网络舆情工作的兴趣，说不定，以后自己会投奔在“舆情斗争”这个没有硝烟的战场上，所以，我来到了“全栈新媒体运营”微专业学习。
+2.技能介绍
+激励他人
+作为一个生活十分简单，理想极其丰满的乐观主义者。通过九型人格、优势识别、MBTI等理论的学习，发现自己的性格特征中非常突出的一点是“以别人需求为需求”，本身又积累了多年的公益实践活动经验，所以表现的乐于助人且总是尊重他人。后来学习了一些沟通的技巧，养成了较好的倾听和表达能力，所以我总是在工作和生活中激励同伴和朋友。主要通过看书和参加线下培训课学习。
+3.输出计划
+每周在简书发表一篇团队工作杂记，记录下和“青年之声宜宾”小伙伴们一起工作的小故事；
+认真完成“全栈新媒体运营”微专业的作业；
+在工作中，尽量多的使用课程学习到的理论知识。
+4.利器推荐
+推荐一款最近接触到的视频编辑软件——来画。
+偶然浏览微信推文的时候看到的介绍，是一款有着丰富“手绘”模板的傻瓜式视频编辑软件，可以轻松地制作出写字、画画等“手绘”效果，也有着添加背景，拼接视频等基本功能。对不太会使用专业剪辑软件的小伙伴们来说，应该会很实用。
 
-You can use the [editor on GitHub](https://github.com/hanxiaoyaoer/kangwang.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hanxiaoyaoer/kangwang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+作者：宜宾青年李跃
+链接：https://www.jianshu.com/p/22dab0f85370
+来源：简书
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
